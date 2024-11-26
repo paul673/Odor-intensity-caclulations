@@ -1,0 +1,7 @@
+name = "odor-intensity-calculations"
+uuid = "7492381a-b69f-4ede-aab2-c436feafe458"
+authors = ["paulj <paul.jonathan.groening@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
